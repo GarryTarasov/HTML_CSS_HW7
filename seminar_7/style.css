@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    /* Это нужно для обнуления базовых стилей */
+    /*обнулениe базовых стилей */
     text-decoration: none;
     font-family: "Lato";
     font-style: normal;
@@ -22,8 +22,6 @@ img {
 .center {
     width: 1600px;
     margin: 0 auto;
-    /* padding-left: calc(50% - 150px);
-    padding-right: calc(50% - 150px); центрирование контента 660 px это размер контента делим пополам */
 }
 
 .header {
